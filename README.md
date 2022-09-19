@@ -10,3 +10,5 @@ Colocar quaisquer textos aqui...
 Mais texto para colocar aqui
 
 Alteração da develop
+
+Alteração da main/master
