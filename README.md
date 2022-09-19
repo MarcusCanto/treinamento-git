@@ -15,3 +15,5 @@ Alteração da develop
 Alteração da main/master
 
 Criei uma tela de vendas e ela está funcional. Confia.
+
+# Texto livre
