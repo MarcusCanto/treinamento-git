@@ -8,5 +8,5 @@ Colocar quaisquer textos aqui...
 
 ### Subsubtítulo
 
-Mai texto para colcoar aqui
+Mais texto para colocar aqui
 Alteração da develop
